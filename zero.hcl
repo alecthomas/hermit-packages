@@ -5,7 +5,7 @@ sha256-source = "https://github.com/alecthomas/zero/releases/download/v${version
 
 version "0.0.1" "0.0.2" "0.1.1" "0.2.0" "0.3.2" "0.3.3" "0.4.0" "0.4.1" "0.5.0" "0.6.0"
         "0.6.1" "0.7.0" "0.8.0" "0.8.1" "0.8.2" "0.9.0" "0.10.0" "0.10.1" "0.11.0" "0.12.0"
-        "0.13.0" "0.14.0" "0.15.0" "0.15.1" "0.16.0" {
+        "0.13.0" "0.14.0" "0.15.0" "0.15.1" "0.16.0" "0.17.0" {
   auto-version {
     github-release = "alecthomas/zero"
   }
@@ -112,4 +112,8 @@ sha256sums = {
   "https://github.com/alecthomas/zero/releases/download/v0.16.0/zero-0.16.0-linux-amd64.tar.gz": "d7ed301654a62cac8f5ada96b0705e413014da8a7fae97b688983496ac7ed74a",
   "https://github.com/alecthomas/zero/releases/download/v0.16.0/zero-0.16.0-darwin-amd64.tar.gz": "af7a476a7ba2af1cf0b762821d448127dbd90de779656579e040252f72807390",
   "https://github.com/alecthomas/zero/releases/download/v0.16.0/zero-0.16.0-darwin-arm64.tar.gz": "8ab0e7a1d80dce0482c314c49b5bf59053fcfcfa6f71a9d42589df51e837af5e",
+  "https://github.com/alecthomas/zero/releases/download/v0.17.0/zero-0.17.0-darwin-amd64.tar.gz": "a7fd15e9faf5a5279b95bcd7a90241bc809bebca23df7e34dbad7c81551ba2cb",
+  "https://github.com/alecthomas/zero/releases/download/v0.17.0/zero-0.17.0-darwin-arm64.tar.gz": "0beba2b7837df98713589f63e1038dd3505cacc1f2b1e66f05373d82332d5927",
+  "https://github.com/alecthomas/zero/releases/download/v0.17.0/zero-0.17.0-linux-arm64.tar.gz": "8015cca2c54d2e60e911aaacc5160aa0df409581bf7c4b9e421338e035eac8d5",
+  "https://github.com/alecthomas/zero/releases/download/v0.17.0/zero-0.17.0-linux-amd64.tar.gz": "6059efd9d355bbb9adddb4de07ca424a1b9f44c8ed56e7178e5be911a1548b7c",
 }
